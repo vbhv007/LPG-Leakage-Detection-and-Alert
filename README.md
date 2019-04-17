@@ -8,16 +8,16 @@ This is a project submitted for TARP(Technical Answers to Real World Problem) in
 4. Bread Board
 
 # Software Components Used
-1. Django for dashboard
+1. Django for Dashboard App (check it out here --> https://lpg-leakage-detection.herokuapp.com/)
 2. Amazon boto3 for sending text messages
 3. Amazon SES (Simple Email Service) for sending emails
 4. ThingSpeak for recieving data from node-mcu
 
 # SMS and Email example
-SMS:
+### SMS:
 
 ![alt text](Images/sms.jpg "SMS example")
 
-Email: 
+### Email: 
 
 ![alt text](Images/email.jpg "Email example")
